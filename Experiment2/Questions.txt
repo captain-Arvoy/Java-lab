@@ -1,0 +1,5 @@
+1) Write a Java program to print the employee details like name, age, department, base salary, PF, Gender, etc.(12% of basic pay)
+2) Write a java program to calculate the compound intrest CI=p[(1+r/100)^n - 1]
+3) Write a java program to find out the area and volume of sphere and cone.
+4) Write a java program to intialize the value of 2 instance variable and find out the sum, multiply and division of this
+    Also calculate all the arithmetic operator by using scanner class
