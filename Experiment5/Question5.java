@@ -25,5 +25,5 @@ class Person{
   }
   Person(char gender){
     this.gender = gender;
-  }p
+  }
 }
